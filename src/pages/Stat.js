@@ -2,7 +2,6 @@ import { useState } from "react";
 
 function Stat({stat}){
 
-    const[inStat,setStat] = useState(stat);
     return(
         <>
             <tr>
