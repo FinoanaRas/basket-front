@@ -2,7 +2,6 @@ import Header from './pages/Header';
 import statsData from './data/statistiques.json';
 import './css/page.css';
 import StatPage from './pages/Stat.js';
-import { useState } from 'react';
 
 function App() {
 
