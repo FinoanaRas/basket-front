@@ -1,0 +1,42 @@
+[
+    {
+        "joueur": "Joe",
+        "equipe": "A",
+        "match": 10,
+        "mj" : 10,
+        "ppm": 12.5,
+        "rpm": 3.5,
+        "pdpm": 7.5,
+        "mpm": 34.1,
+        "tir": 23,
+        "pts3": 12,
+        "lf": 85
+    },
+    {
+        "joueur": "Doe",
+        "equipe": "A",
+        "match": 10,
+        "mj" : 10,
+        "ppm": 12.5,
+        "rpm": 3.5,
+        "pdpm": 7.5,
+        "mpm": 34.1,
+        "tir": 23,
+        "pts3": 12,
+        "lf": 85
+    },
+    {
+        "joueur": "Sam",
+        "equipe": "A",
+        "match": 10,
+        "mj" : 10,
+        "ppm": 12.5,
+        "rpm": 3.5,
+        "pdpm": 7.5,
+        "mpm": 34.1,
+        "tir": 23,
+        "pts3": 12,
+        "lf": 85
+    }
+
+]
