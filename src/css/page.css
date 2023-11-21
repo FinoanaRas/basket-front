@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    background-color: rgb(129, 102, 155);
+    height: 85px;
+    justify-content: space-between;
+    padding-inline: 1cm;
+}
+
+.container{
+    display: flex;
+    margin: 1cm;
+    justify-content: space-evenly;
+}
+
+th{
+    background-color: rgb(21, 54, 85);
+    color: white;
+}
