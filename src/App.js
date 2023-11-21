@@ -6,7 +6,6 @@ import { useState } from 'react';
 
 function App() {
 
-  const[stat,setStat] = useState(statsData);
   return (
     <div className="App">
       <Header/>
@@ -25,7 +24,7 @@ function App() {
               <th>3pts</th>
               <th>Lf</th>
           </tr>
-        {stat.map((stat) => {
+        {statsData.map((stat) => {
           return(
             <StatPage stat={stat} />
           );
